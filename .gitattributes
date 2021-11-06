@@ -8,3 +8,4 @@
 *.fsh filter=lfs diff=lfs merge=lfs -text
 *.vsh filter=lfs diff=lfs merge=lfs -text
 *.mp3 filter=lfs diff=lfs merge=lfs -text
+*.md filter=lfs diff=lfs merge=lfs -text
