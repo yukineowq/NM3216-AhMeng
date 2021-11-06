@@ -1,1 +1,0 @@
-slidetransition(TRANS_MODE.NEXT,room);
